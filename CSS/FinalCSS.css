@@ -1,0 +1,86 @@
+body{
+    background-color: #373842;
+    color:#000000;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+h1{
+    background-color:#5F7867;
+    padding: 30px;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 0;
+    border: 2px solid #324538;
+}
+#LOGO{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.Nav{
+    background-color: #354D65;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    border: 2px solid #1b2733;
+}
+a{
+    color: #000000;
+}
+a:hover{
+    color: #E7E7E7;
+}
+/* Need to fix footer and contact position */
+/* especially footer text posiiton */
+#contacts{
+    background-color: #5F7867;
+    padding: 20px;
+}
+footer{
+    background-color: #354D65;
+    margin: 0px;
+    line-height: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 50px;
+    color: rgb(18, 14, 14);
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.Content{
+    background-color: #E7E7E7;
+    padding: 20px;
+    margin:20px;
+    text-align: center;
+    border: 3px solid #354D65;
+}
+.ImgCon img{
+    height: 500px;
+    width: 500px;
+    border: 3px solid white;
+    border-radius:0;
+}
+
+
+    /*
+#373842 <Black
+#E7E7E7 <White
+#5F7867 <Green
+#354D65 <Blue
+*/
+
+/* fix positions for everything */
+/* this is so ugly. I need to fix some things. */
+/* do not start over i know you are tempted to */
+/* also organize everything */
+/* shorten adn fix code */
+/* maybe i should restart this */
+/* im going to restart this there is no way I can read any of this */
+/* dawg i dont understand any of my code. put it out of it's misery */
