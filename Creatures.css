@@ -1,0 +1,60 @@
+body{
+background-color: #373842;
+}
+header{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+nav{
+    background-color: #354D65;
+}
+ h1{
+    background-color: #5F7867;
+ }  
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+/* create the styles for the child divs that hold the images so the images are displayed responsively */
+
+/* ADD BORDER AROUND IMAGES */
+.galleryImages{
+    max-width: 24%;
+    flex: 23%;
+    padding: 10px;
+    align-items: center;
+}
+.galleryImages img{
+    width: 100%;
+}
+
+/*media query - they are helpful for responsive design - havin gyour webpage look differeny on different screen sizes */
+@media (max-width: 800px){
+    /* this will mkae the images dsiplay by themselves on a smaller screen */
+    .galleryImages{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+/* fix the images */
+/* fix everything tbh */
+/* i cannnot read any of this */
+/* add two navigations */
+/* put placeholder audio and vidoe in please */
+
+
+/* scroll contianer?? */
+
+/* overflow-y
+overscroll behavior: contain
+border */
+
+
+/*
+#373842 <Black
+#E7E7E7 <White
+#5F7867 <Green
+#354D65 <Blue
+*/

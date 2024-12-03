@@ -1,0 +1,13 @@
+HTML Final Notes:
+
+Code is not yet finished and I need to add content. It is also very ugly at the moment. I'll be fixing that soon.
+The first page is named Final_Project for now. It is the main page and navigation to the other pages. 
+Contacts can be found down near the footer and it will hold the password to access the forms.
+
+Creature info is empty right now, but there will be content soon. Information about different creatures in the ARG will be found here.
+It will be multimedia page with images, sounds, text, and videos. 
+
+Logs will be... well logs. It will be the start of the story, but for this project I will end it here.
+Before accessing there will be a form that requires a password. This will introduce the gimick of an ARG,
+Still code and content is unfinished for now.
+everything will be cleaned up.

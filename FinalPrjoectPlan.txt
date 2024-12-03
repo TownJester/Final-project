@@ -1,0 +1,121 @@
+Final project elements
+
+Creature information:
+Multimedia (sounds of creature)
+Search features
+something interactive? Links to different pages??
+Look at welcome home website or any other args
+ADD THE HORROR STORY WE MADE??
+Use object classes to organize creatures?
+Sounds, classification, description, abilities, aggression (?)
+^ Look at home safety hotline
+Dropdown option??? WAIT make it to sort for certain things
+
+
+Logs:
+Log naviagation
+Sounds?
+A form for password
+(figure out how to change the message that isn't alters. Should be somewhere.)
+^ Look at strings/script code
+Hidden info within page
+DO NOT FORGET THE SUBMIT BUTTON!!!!!
+
+Contact info:
+Password should be hidden here
+
+Main page: 
+Basically navigation to other ages
+Put like main purpose blah blah blah in here
+
+
+<header>
+<nav>
+(navigaiton links)
+</nav>
+</header>
+
+
+script code:
+<script src="
+
+alert <pop up
+document,getElementById("blah bla").innerHTML = "Text" <text change
+
+look at W9 class example for possible creature info
+
+SEARCH FEATURES SHOULD BE IN NAVIGAITON!!
+
+<button onclick="Function name"> OR <input type=submit>
+
+LOOK AT ARRAYEXMP (actually maybe) idk if i wanna use a loop
+wait nvm im literally gonna make a function might as well make a loop
+REMMEBER THE OFFRAMP PLEASE
+
+nvm im actually gonna ask for an opinion instead of being stupid ^v^
+
+
+
+
+
+
+
+
+
+LOGS AND CREATURES:
+Gas-like-creature (place holder name GLC) - 
+
+-Ever get a whiff of a strange smell? Lavender while clocking in hours at the office? Or maybe Birthday cake walking through downtown? It could be a swarm of GLC! 
+
+
+What are they? GLC are incredibly small Isopods who move in very large swarms. These wondrous creatures are some of the smallest in the world, on average measuring in at just 0.12 millimeters on average! Because of their individual size they tend to condense into large swarms, with about 16,000 GLC per swarm! Due to their size and weight they actually float on even the smallest of air currents as their form of transportation. 
+
+
+What do they do and what do they look like? GLC are almost entirely harmless and sustain themselves off either dead or organic plant matter. This places them as decomposers within the food chain. Due to their way of life, they do not burn calories quickly meaning they can live for very long periods of time without the need to eat. Due to the sheer mass of a swarm, it is no surprise they bring along the smell of their last meal which makes these nearly undetectable creatures the culprit for all sorts of mystery smells, keep that in mind next time you think about blaming the dog (insert 1960s laugh track). As for their physical appearance, their size makes them virtually undetectable to the human eye but with modern equipment we have gotten a closer look at these marvels. They have a very faint baby blue-ish purple hue but they are nearly entirely see through. They closely resemble Isopods as well, however it hurts to think about how one developed to live in the ocean and the other just walks on the air so refrain from thinking too hard !
+
+
+So next time you smell a rotting corpse, keep your eye out for a quiet blue dust in the air! Or call the authorities i guess
+
+
+Vaculobe (Vasculisphaera) - 
+
+Imagine a whale. Now imagine a whale from hell. Now imagine the hell whale and make it a ball that only survives at 2500 meters deep under the ocean. 
+
+
+What are they? Fucking vein whales is the best way i can put it. It's a mass of veins and blood vessels (mammalian veins NOT like a fish but more like an elephant) that is formed into what is pretty much a sphere of veins. It is awful and I hate it.
+
+
+What do they do and What do they look like? They make me uncomfortable and scared. Aside from that they ingest food via touch, similar to a Hagfish or venus fly trap. I can’t really say they have skin so I guess I would use the word “acidic membrane”. Unfortunately for everyone that means you can just see… everything. It is remarkably spherical hence the “sphaera” in its name, the only thing that stops it from being a perfect sphere would be its fins? Flippers? It's some organ that it pumps blood to in order to expand it, giving it forward momentum. The second worst part about it in my opinion is the sound. Any microphone we have gotten near one of these abominations breaks. The graphs show the sound is literally too loud and instantly peaks the microphone. Now for the worst part about this monster from hell, It has eyes! Isn’t that great? All pictures we have of these creatures (only 7 photos exist) there are eyes located on the sides of the face? The front? Either way it has eyes and lives 1000 meters beneath the point in the ocean where there is no light. Which leads me to the conclusion that these were not always this deep down, they evolved eyes for a reason and for some reason they made the drastic choice to only live in the deepest dark on the ocean, maybe out of fear of something else in the ocean. How horrible! 
+
+
+Three attempts have been made to recover a sample, the first two failed as the instrument we used dissolved on contact, and the third sample we recovered exploded due to the rapid pressure change. I hate it and I wish I did not know this was alive, let alone know there are more than one. 
+
+
+Heat Reactive Mug I got at Claire's in 1993.
+
+“It was Christmas 1993 and I was feeling… lonely and so I decided to buy myself a few Christmas gifts. So I went to the mall and looked around some stores and I ended up in a Claires. I walked to the back of the store and found a shelf of mugs that claimed to be heat reactive. It didn’t even say what it would show when heat was applied. I'm not exactly sure why but I felt the need to get one so I did as one of my personal gifts, it cost me 5.78$ and I’ve still got the receipt if that matters.”
+
+
+What is it and what does it look like? It is a heat reactive mug that… well reacts to heat to reveal an image on the mug. The only reason this matters is because the image is dependent on the person who pours in the hot liquid. The image, when fully revealed, shows the pourer (full body and current clothing) smiling holding the mug, with the same image on that mug. At a certain point the image becomes too small and distorted but we can assume every mug shown on the mug has another mug going on infinitely. The person on the mug may occasionally blink. As the image begins to fade the person on the mug slowly loses their smile before the mug fades completely into black again.
+
+
+“I went back to that store after I poured my first cup because, frankly I was astonished. I walked right into that claires straight to that back corner where the shelf was and there was nothing…  just a blank stretch of wall. It was real strange, that's for sure.” 
+
+
+Tuning Beetles 
+
+What are they? Tuning beetles are beetles that closely resemble Rhinoceros Beetles. The key difference is Tuning Beetles have extremely durable exoskeletons, having a longer horn, and being substantially larger (.5x) than Rhinoceros Beetles.  
+
+
+What do they do and what do they look like? For the most part they behave like regular bugs however they like solitude and stay in one area (this area is centralized in their burrow and has a .8 miles radius in every direction). Tuning Beetles often get territorial over this area leading them to be devoid of most bugs and smaller fauna however, larger animals are permitted to be on this territory. Tuning Beetles let out a high pitched squealing noise that is imperceptible to humans over the age of Three. Humans under that age who have heard the Screech of a Tuning Beetle develop hearing problems at a farley accelerated rate then most, most develop tinnitus at 12 and end up going deaf by 44. This noise, referred to as their Tuning, has strange effects on their environment, such as Flora growing at four times its normal rate, this includes decomposition. Because of this it is obvious when a Tuning Beetle’s den is nearby. Appearance wise they are Large Beetles that have a shiny, almost iridescent Exoskeleton which is incredibly durable. So durable in fact these insects almost always die of old age or disease. We say almost because we had to test the strength of their exoskeleton… it did not survive 2300 pounds of pressure… it was for science… 
+
+
+The butterfly collection 
+
+What is it? A collection of 52 pinned butterflies found at a garage sale. Each butterfly of distinct color and species, 6 of which has not been discovered in the wild. Each butterfly is increased in a dark stained wooden oak box with a glass door front and a red cushion interior. 
+
+
+What does it do? The butterflies themselves have no anomalous effects however the boxes do. Any biological material placed within the box, given all of the matter fits, will be given or returned to life as long as it is in the box.  Once the object is taken out of the box it will return to how it was before entering, including any level of decay or rot. The matter placed within must be in its entirety, for example placing a wood chip within a box does not create a tree, or hypothetically placing a human tooth within does not bring back your daughter. Due to these limitations a use for the boxes has not been found and the reason the boxes do this is unknown. 
+
+
+What does it look like? It is a collection of 52 wooden boxes, each marked on the back with dates spanning February 3rd 1693 to August 3rd 1753. The boxes themselves are not particularly intricate but it is worth saying that all the edges of the boxes are not connected with glue, nails, or even wood connecting techniques. It simply stays together. As previously mentioned each box holds butterflies which are pinned through the abdomen to the red cushion. No butterfly is of the same species and 6 of the butterflies have not been discovered outside of these boxes. Butterflies when removed show no change except the fact they instantly die once removed, this implies the butterflies were killed and nearly immediately put into a box. As a side note the only reason this caught our attention and how we knew to take these items is because the butterflies were all frantically flapping their wings from within their cases. Meaning they had been doing so for the past 300-ish years. 
