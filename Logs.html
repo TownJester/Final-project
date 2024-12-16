@@ -3,43 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logs</title>
-        <!-- Temp CSS -->
+    <title>ERROR</title>
     <link href="CSS/Logs.css" rel="stylesheet">
-    <!-- logo top left -->
+    <script src="FinalScript.js"> </script>
      <!-- also do the css for this -->
 </head>
 <body>
-        <!-- password here --> 
-         <!-- i don't want to do this code -->
-          <!-- please make the goddamn javascript for this so it actually works -->
-           <form name="AccessL" id="AccessL" method="post"> RAAH </form>
-
-    <header>
-        <!-- make a form for a password for this  -->
-        <!-- navigation at top -->
-         <!-- log navigation at left -->
-          <h1> Logs </h1>
-          <nav>
-            <a href="Final_Project.html"> Home page </a>
-            <br>
-            <a href="CreatureInfo.html"> Creature Information </a>
-          </nav>
-    </header>
-
-    <main>
-        <!-- content here.  text, audio (maybe). -->
-        <audio controls> 
-            <source src="Media/Audio.mp3" type="audio/mp3">
-        </audio>
-        <p> PLACE HOLDER </p>
-    </main>
-
-    <footer></footer>
+        <div class="AccLogs">
+            <h2> This page is restricted to public access!</h2>
+            <form method="post">
+                <span id="message"> Please log in to access this page. </span>
+                <br>
+                <lable for="User"> Name: </lable>
+                <input type="User" id="User1" name="User" required>
+                <br>
+                <lable for="Pass"> Password: </lable>
+                <input type="password" id="LogPass" name="LogPass" required>
+                <br>
+                <button type="submit" class="BttnL" onclick="ValP();">Access</button>
+            </form>
+        </div>
+        <nav>
+            <ul> 
+            <li><a href="Final_Project.html">Homepage</a></li>
+        <li><a href="CreatureInfo.html">Creature Information</a></li>
+        </ul>
+        </nav>
 </body>
 </html>
 
 <!-- Date
  11- 19 - 2024 
   11 - 26 - 2024 
-  12 - 3 - 2024-->
+  12 - 3 - 2024
+  12 - 10 - 2024 -->

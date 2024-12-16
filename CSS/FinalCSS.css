@@ -2,8 +2,7 @@ body{
     background-color: #373842;
     color:#000000;
     margin: 0px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1{
     background-color:#5F7867;
@@ -67,8 +66,9 @@ footer{
     border: 3px solid white;
     border-radius:0;
 }
-
-
+#footer{
+    margin-left: 20px;
+}
     /*
 #373842 <Black
 #E7E7E7 <White

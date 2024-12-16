@@ -1,37 +1,120 @@
 body{
 background-color: #373842;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin: 0;
 }
-header{
+h1{
+background-color:#5F7867;
+text-align:center;
+padding:20px;
+margin-top: 0;
+margin-bottom:0;
+}
+#homep{
+background-color:#354D65;
+text-align:center;
+padding:10px;
+margin:0;
+border: 2px solid #1b2733;
+}
+a{
+color:black;
+}
+a:hover{
+    color: #E7E7E7;
+}
+.dropbtn{
+background-color: #E7E7E7;
+color: #000000;
+padding: 16px;
+font-size: 16px;
+border: none;
+border:3px solid #5F7867;
+}
+.DropDown{
+    position: relative;
+    display:inline-block;
+}
+.Crechures{
+    display: none;
+    position: absolute;
+    background-color: #E7E7E7;
+    min-width: 160px;
+    z-index: 1;
+    border:2px solid #000000;
+}
+.Crechures a{
+    color: black;
+    padding: 12px 16px;
+    display: block;
+}
+.DropDown:hover .Crechures{
+    display:block;
+}
+.DropDown:hover .dropbtn{
+    background-color:#a1a1a1;
+}
+.info{
+    display:flex;
+    flex-direction: column;
+}
+.Cr1, .Cr2, .Cr3, .Cr4, .Cr5, .Cr6, .Cr7, .Cr8{
+    background-color:white;
+    margin:90px;
+    padding:10px;
+    border:3px solid black;
+    overflow:auto;
+}
+.img{
+    border:1px solid black;
+    max-width:45%;
+    min-width:25%;
+    padding: 20px;
     text-align: center;
-    font-family:'Times New Roman', Times, serif
 }
-nav{
-    background-color: #354D65;
+h2, h3{
+    text-align:center;
+    border-bottom: 2px solid black;
 }
- h1{
-    background-color: #5F7867;
- }  
-.container{
-
+p{
+    padding:30px;
+    border:1px solid black;
 }
-img{
-    width: 80px;
-    height: 80px;
+audio{
+margin-left: 5%;
 }
+video{
+    max-width:55%;
+    min-width: 35%;
+    height: 400px;
+    padding: 20px;
+}
+.Media{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+@media (max-width: 600px){
+    .Cr1 .Cr2 .Cr3 .Cr4 .Cr5 .Cr6 .Cr7 .Cr8{
+        display: flex;
+        flex:100%;
+        flex-direction: column;
+        max-width: 100%;
+    }
+    @media (max-width: 800px){
+        /* this will mkae the images dsiplay by themselves on a smaller screen */
+        .Cr1 .Cr2 .Cr3 .Cr4 .Cr5 .Cr6 .Cr7 .Cr8{
+            display:flex;
+            flex-direction: column;
+            flex: 100%;
+            max-width: 100%;
+        }
+    }
 
 
-/* fix the images */
-/* fix everything tbh */
-/* i cannnot read any of this */
-/* add two navigations */
-/* put placeholder audio and vidoe in please */
-
-
-/* scroll contianer?? */
-
-/* overflow-y
-overscroll behavior: contain
-border */
+/* i hate messing with positions */
+/* fix media layout */
 
 
 /*

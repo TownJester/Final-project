@@ -1,0 +1,24 @@
+body{
+    background-color:#373842;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+header, h2{
+    background-color: #E7E7E7;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+p{
+    background-color: #5F7867;
+    border: 5px solid #354D65;
+    padding:20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+/*
+#373842 <Black
+#E7E7E7 <White
+#5F7867 <Green
+#354D65 <Blue
+*/
